@@ -1,8 +1,8 @@
 {
   "payload": {
     "expiresAt": 1810815792,
-    "revoked": true,
-    "serial": 2
+    "revoked": false,
+    "serial": 3
   },
-  "sig": "FzaAyuw2uAvVGJrSynQtgLwvnJWmv9Z54C6x/QaHmfScTo4NTHtAgmRc4ZdTsZM/4MvS3eWDiRBOKZBuQ9le2BLn+RlCExtiOb6Z2wKgp3+0zl45jHRKhH/KSh58NFioNY7EhzPVqaGv9MYt1npUzEldJTGvNOlKhKd/y+0FFTGXKY4Q0E9xg3HFJnmuCJ4Uj7v87peg14yak2vwpM37SliF8hffZXoJ3irWdmHtDjtA4fVgfxU2kVnySiydV6jVgxuVGn+rn2veo3iHwzQhw3faLvjkZ0rylVfoBLmjWhlzTNUH4DjdrwfKwdeqaC8wCGgKAQH5qGOF8n7lUTML8Q=="
+  "sig": "eVtGSppSUtbwAMKAr8xtm/IXDYpG8cJ30EXePsUe9xTHo7rBospjTLDzZ9hRZfSonRCSJXmwYY1eW+5HtUSebZX01/KD0TVbce9l6lhVwbQXCiJjUnOTTsVt9l9W4GDf8p0nMnRndtbcweA8ksMTxf79x5RO91bAfmRVGJJ4kXRZPob2WQBoTHL6PwPPA1rl0aHhspC1uvw3FViQ8c0fGaBiOAZpiE68ctoJ2KwigKhNhdcygaE/VnbSM0hFdnGoJkywPOuoxKRAHk0KDXHVLyV4unBl4eGkjJ7uMoN6DQuwZuDZnPFsLHs7TpRXQSy2gMdKyDdRiNYVGwgKZkAj+A=="
 }
